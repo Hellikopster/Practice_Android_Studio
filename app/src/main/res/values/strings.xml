@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Practice</string>
+  <string name="welcome">Квадроберский чат</string>
+  <string name="hint">Введите свой номер телефона</string>
+  <string name="company">Квадробер корпарэишн</string>
+  <string name="btn_1">Начать</string>
+</resources>
